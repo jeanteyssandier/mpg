@@ -1,0 +1,114 @@
+name,price,buy,pos,av,goals,titu
+#
+## L1 - 12/02/2021 - J24
+#
+Kakuta,24,66,am,5.7,9,88
+diop,21,60,am,5.8,5,79
+faivre,24,44,am,6.0,5,92
+honorat,21,37,am,5.7,7,67
+Lucas Paquetá,15,37,am,5.8,2,58
+Yazici,17,31,am,5.5,5,83
+Mama Baldé,14,30,am,5.0,6,67
+Thauvin,21,30,am,5.6,7,83
+André,25,27,dm,5.7,0,96
+Di María,27,27,am,5.8,3,71
+Thomasson,16,26,am,5.1,3,83
+Rongier,20,26,dm,5.6,1,75
+Bourigeaud,18,23,am,5.6,4,71
+Mollet,22,22,am,5.2,3,75
+Fulgini,17,22,am,5.5,4,92
+Lees-Melou,21,21,am,5.8,4,63
+Ferhat,16,20,am,5.6,4,83
+Sarabia,13,19,am,5.5,4,33
+Basic,15,17,dm,5.2,4,100
+Ndong,15,17,dm,5.3,0,96
+Tchouameni,14,15,dm,5.4,1,14
+Aouchiche,13,15,dm,5.4,2,58
+Bamba,10,11,am,4.8,2,25
+Pajot,7,10,dm,6.1,0,33
+Celina,10,10,am,5.3,0,63
+#
+## PL - 13/02/2021 - J23
+#
+Gündogan,31,61,dm,6.4,9,65
+Harrison,22,42,am,5.6,6,91
+Foden,17,39,am,5.9,5,48
+Maddison,30,35,am,5.9,6,70
+Traoré,15,33,am,5.5,4,52
+Tielemans,23,33,am,5.5,5,96
+Rodrigo,22,32,dm,5.9,0,87
+Rodríguez,19,30,am,5.8,5,61
+Jorginho,18,26,dm,5.7,5,52
+Rúben Neves,22,26,dm,5.7,0,87
+Mahrez,25,26,am,5.3,5,57
+Sigurdsson,15,25,am,5.3,3,52
+Raphinha,20,23,am,5.7,5,83
+Almirón,20,23,am,5.6,4,65
+Eze,17,21,am,5.5,3,70
+Ndombele,17,21,dm,5.4,3,78
+Matheus Pereira,15,18,am,5.4,5,70
+Benrahma,11,18,am,5.1,0,39
+Klich,13,16,am,5.1,3,87
+Doucouré,16,16,am,5.7,2,87
+Ndidi,9,15,dm,6.0,1,43
+Westwood,11,12,dm,5.2,1,96
+Loftus-Cheek,11,12,am,5.0,1,61
+#
+# SerieA - 19/02/2021 - J23
+#
+Candreva,22,55,am,5.9,4,68
+Zaccagni,25,41,am,5.9,5,86
+Zielinski,18,38,am,5.8,4,73
+Ruiz,15,31,dm,5.5,15,59
+Milinkovic-Savic,25,31,am,5.4,5,86
+Malinovskiy,15,31,am,5.3,1,41
+Barak,22,31,am,5.7,5,77
+Jankto,17,25,am,5.5,4,77
+Politano,18,24,am,5.2,6,41
+Barella,19,23,am,5.5,3,86
+Locatelli,23,23,dm,5.7,2,91
+Badelj,15,23,dm,5.5,0,73
+Radovanovic,14,23,dm,5.3,0,55
+Pjaca,9,23,am,4.7,3,41
+Perisic,16,23,am,5.2,2,55
+McKennie,18,21,dm,5.3,3,55
+Zajc,13,21,dm,5.0,1,55
+Nández,15,21,dm,5.3,1,15
+Pasalic,15,21,am,5.1,2,32
+Brozovic,18,18,dm,5.8,1,73
+Pereyra,14,17,am,5.1,2,86
+Damsgaard,14,15,am,5.3,2,50
+Svanberg,13,15,dm,5.2,2,55
+Linetty,11,14,dm,5.0,1,86
+Bonaventura,12,12,am,5.2,1,68
+Lucas Leiva,12,12,dm,5.2,0,68
+Behrami,8,9,dm,4.9,0,18
+Strootman,11,8,dm,5.2,0,27
+#
+# Liga - 19/02/2021 - J24
+#
+Llorente,26,51,dm,5.7,7,74
+Ocampos,30,46,am,5.4,4,83
+Rakitic,14,45,dm,5.4,1,70
+Soler,23,45,am,5.7,6,78
+Kroos,30,43,dm,6.1,2,78
+Rubén García,21,35,am,5.4,3,96
+Torres,16,31,am,5.3,4,57
+Nolito,16,31,am,5.5,4,91
+Josan,15,31,am,5.3,4,78
+Suso,16,31,am,5.4,3,61
+Méndez,15,31,am,5.3,5,70
+Ñíguez,17,28,dm,5.2,2,48
+Orellana,18,28,am,5.3,2,74
+Manu Trigueros,20,25,am,5.4,1,83
+Jonsson,14,24,dm,5.2,0,14
+Fernando,22,23,dm,5.8,0,74
+Asensio,17,22,am,5.2,2,57
+Melero,18,21,am,5.3,4,65
+Papu Gómez,15,20,am,5.8,5,43
+Merino,16,18,dm,5.4,1,91
+Tapia,12,12,dm,5.3,0,96
+Torres,11,11,am,5.2,0,48
+Tello,9,9,am,5.2,4,35
+Gudelj,9,9,dm,5.2,0,22
+Mosquera,7,8,dm,4.9,0,78

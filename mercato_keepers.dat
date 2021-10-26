@@ -1,0 +1,54 @@
+name,price,buy,av,goals,titu
+#
+## L1 - 12/02/2021 - J24
+#
+Oukidja,25,44,5.7,0,96
+Maignan,25,41,5.7,0,100
+Costil,22,27,5.4,0,100
+#Poussin,7,10,0,0,0
+#Karnezis,7,9,0,0,0
+#Caillard,7,7,5.5,0,4
+#
+## PL - 13/02/2021 - J23
+#
+Martínez,20,40,6.0,0,91
+Schmeichel,22,38,5.6,0,100
+Meslier,18,26,5.5,0,91
+Lloris,23,23,5.5,0,96
+#Heaton,7,9,0,0,0
+#Ward,7,8,0,0,0
+#Hart,7,7,0,0,0
+#
+# SerieA - 19/02/2021 - J23
+#
+Donnarumma,21,45,5.6,0,95
+Audero,19,31,5.6,0,100
+Consigli,17,30,5.5,0,95
+Silvestri,17,22,5.5,0,100
+Cragno,19,19,5.5,0,100
+Handanovic,17,18,5.4,0,100
+Musso,15,17,5.2,0,91
+#Tatarusanu,7,10,3.5,0,5
+#Letica,7,9,0,0,0
+#Padelli,7,7,0,0,0
+#Pegolo,7,7,6,0,5
+#Scuffet,7,7,0,0,0
+#Ravaglia,3,3,0,0,0
+#
+# Liga - 19/02/2021 - J24
+#
+Bounou,22,36,5.8,0,83
+Simón,15,35,5.0,0,96
+Courtois,25,34,5.5,0,100
+Oblak,27,32,5.7,0,91
+Doménech,19,25,5.5,0,100
+Badia,17,23,5.6,0,91
+Fernández,15,21,5.2,0,87
+#Gazzaniga,7,10,0,0,0
+#Pastor,7,9,0,0,0
+#Lunin,7,9,0,0,0
+#Ezkieta,7,8,0,0,0
+#Grbic,7,7,0,0,0
+#Cárdenas,7,7,5.5,0,4
+#Vaclik,3,4,5.0,0,13
+#Etxebarria,3,3,0,0,0
